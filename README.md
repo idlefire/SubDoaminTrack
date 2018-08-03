@@ -1,4 +1,4 @@
-# SubDoaminTrack
+# SubDomainTrack
 简单的子域名查找工具.
 支持爆破和https证书查找.
 
